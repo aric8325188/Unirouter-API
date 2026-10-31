@@ -84,23 +84,19 @@ API key：就是您刚才复制的令牌
 
 ![image.png](https://api.apifox.com/api/v1/projects/7041221/resources/701456/image-preview)
 
-# 3. 接口文档
-API 接口文档地址：https://unirouter.apifox.cn
-可在此查看API接口详细说明和示例代码
+# 3. 常见问题
 
-# 4. 常见问题
-
-4.1 如何选择分组
+3.1 如何选择分组
 建议使用默认的auto分组，可以一个key使用所有模型
 
-4.2 是否有折扣？
+3.2 是否有折扣？
 请查看2.4节 钱包管理
 
 
-4.3 如何查看模型价格
+3.3 如何查看模型价格
 在模型广场里（https://unirouter.link/pricing）， 点开任何模型就可以看到不同分组对应的价格，所有价格已经在官方价格基础上按照折扣倍率进行打折，auto分组的令牌会自动选择最优分组。
 
-4.4 base url地址是？
+3.4 base url地址是？
 base url地址是：https://unirouter.link
-注意有些软件需要添加/v1，https://unirouter.link/v1
+注意有些软件需要添加/v1：https://unirouter.link/v1
 具体建议询问 AI 帮您确认
