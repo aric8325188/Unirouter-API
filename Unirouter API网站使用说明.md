@@ -34,7 +34,7 @@ base url：https://unirouter.link
 
 如何查看不同分组里有什么模型？
 
-选择模型广场 (https://unirouter.link/pricing)，在可用令牌分组里选择你想看的分组，右边就会显示出当前所选分组包含的可用模型，如下图：
+选择模型广场 ( https://unirouter.link/pricing )，在可用令牌分组里选择你想看的分组，右边就会显示出当前所选分组包含的可用模型，如下图：
 
 ![image.png](https://api.apifox.com/api/v1/projects/7041221/resources/701448/image-preview)
 
