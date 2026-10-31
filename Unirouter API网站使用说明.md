@@ -1,7 +1,7 @@
 本文档为Unirouter API网站使用说明
 base url：https://unirouter.link
 
-新用户可以根据下面介绍的 速通指南 快速上手👇
+新用户可以根据下面介绍的速通指南快速上手👇
 
 # 1. 快速接入
 可按以下步骤快速接入Unirouter API：
