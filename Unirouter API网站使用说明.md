@@ -99,9 +99,12 @@ API key：就是您刚才复制的令牌
 
 ![image.png](https://api.apifox.com/api/v1/projects/7041221/resources/701455/image-preview)
 
-可以选择 Waffo 或者 Stripe 进行付款，此为第三方付款平台，会进行页面跳转，是正常情况。
+可以选择 Waffo 或者 Stripe 进行付款，**此为第三方付款平台，会进行页面跳转，是正常情况。**
 
-平台上可以选择微信或者支付宝进行支付。
+推荐Waffo，进入以后可以选择微信或者支付宝进行支付。
+
+<img width="545" height="696" alt="399b4e7295c25789a21764ae38219626" src="https://github.com/user-attachments/assets/6f8e36c4-7484-4b44-92fb-6c7b62423620" />
+
 
 2.5 个人设置
 
