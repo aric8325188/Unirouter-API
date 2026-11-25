@@ -1,6 +1,7 @@
 本文档为Unirouter API网站使用说明
 
 base url：https://unirouter.link
+注意：如果在codex中使用，base url 需要加 /v1 后缀：https://unirouter.link/v1
 
 新用户可以根据下面介绍的速通指南快速上手👇
 
@@ -132,6 +133,6 @@ API key：就是您刚才复制的令牌
 
 base url地址是：https://unirouter.link
 
-注意有些软件需要添加/v1：https://unirouter.link/v1
+注意：如果在codex中使用，base url 需要加 /v1 后缀：https://unirouter.link/v1
 
 具体建议询问 AI 帮您确认
